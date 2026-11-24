@@ -5,6 +5,7 @@ best quality language tools worthy of the 1.0 tag
 - [ ] semantic search instead of regex
 	- [ ] language features (lemma, POS, tense, etc)
 - [ ] dictionaries
+- [ ] spellcheck
 - [ ] TTS speaker voices
 
 ## new storage format
